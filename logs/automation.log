@@ -1,0 +1,177 @@
+2025-04-03 00:05:50 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\Selenium\seleniumMobileId\testng.xml
+
+2025-04-03 00:06:13 INFO  TC001_ExplorePage_TabsTest:51 -                                                                   
+2025-04-03 00:06:13 INFO  TC001_ExplorePage_TabsTest:52 -                                                                   
+2025-04-03 00:06:13 INFO  TC001_ExplorePage_TabsTest:15 - Starting Explore Page Tabs Testing......
+2025-04-03 00:06:22 INFO  TC001_ExplorePage_TabsTest:27 - Starting Explore Page Individual Tabs Checking
+2025-04-03 00:08:16 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\Selenium\seleniumMobileId\testng.xml
+
+2025-04-03 00:08:38 INFO  TC001_ExplorePage_TabsTest:51 -                                                                   
+2025-04-03 00:08:38 INFO  TC001_ExplorePage_TabsTest:52 -                                                                   
+2025-04-03 00:08:39 INFO  TC001_ExplorePage_TabsTest:15 - Starting Explore Page Tabs Testing......
+2025-04-03 00:08:47 INFO  TC001_ExplorePage_TabsTest:27 - Starting Explore Page Individual Tabs Checking
+2025-04-03 00:22:23 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\Selenium\seleniumMobileId\testng.xml
+
+2025-04-03 00:22:47 INFO  TC001_ExplorePage_TabsTest:51 -                                                                   
+2025-04-03 00:22:47 INFO  TC001_ExplorePage_TabsTest:52 -                                                                   
+2025-04-03 00:22:47 INFO  TC001_ExplorePage_TabsTest:15 - Starting Explore Page Tabs Testing......
+2025-04-03 00:22:55 INFO  TC001_ExplorePage_TabsTest:27 - Starting Explore Page Individual Tabs Checking
+2025-04-03 00:49:14 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\Selenium\seleniumMobileId\testng.xml
+
+2025-04-03 00:49:36 INFO  TC001_ExplorePage_TabsTest:51 -                                                                   
+2025-04-03 00:49:36 INFO  TC001_ExplorePage_TabsTest:52 -                                                                   
+2025-04-03 00:49:36 INFO  TC001_ExplorePage_TabsTest:15 - Starting Explore Page Tabs Testing......
+2025-04-03 00:49:45 INFO  TC001_ExplorePage_TabsTest:27 - Starting Explore Page Individual Tabs Checking
+2025-04-03 00:53:02 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\Selenium\seleniumMobileId\testng.xml
+
+2025-04-03 00:53:24 INFO  TC001_ExplorePage_TabsTest:51 -                                                                   
+2025-04-03 00:53:24 INFO  TC001_ExplorePage_TabsTest:52 -                                                                   
+2025-04-03 00:53:24 INFO  TC001_ExplorePage_TabsTest:15 - Starting Explore Page Tabs Testing......
+2025-04-03 00:53:33 INFO  TC001_ExplorePage_TabsTest:27 - Starting Explore Page Individual Tabs Checking
+2025-04-03 00:56:20 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\Selenium\seleniumMobileId\testng.xml
+
+2025-04-03 00:56:40 INFO  TC001_ExplorePage_TabsTest:51 -                                                                   
+2025-04-03 00:56:40 INFO  TC001_ExplorePage_TabsTest:52 -                                                                   
+2025-04-03 00:56:40 INFO  TC001_ExplorePage_TabsTest:15 - Starting Explore Page Tabs Testing......
+2025-04-03 00:56:48 INFO  TC001_ExplorePage_TabsTest:27 - Starting Explore Page Individual Tabs Checking
+2025-04-03 01:02:58 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\Selenium\seleniumMobileId\testng.xml
+
+2025-04-03 01:03:22 INFO  TC001_ExplorePage_TabsTest:51 -                                                                   
+2025-04-03 01:03:22 INFO  TC001_ExplorePage_TabsTest:52 -                                                                   
+2025-04-03 01:03:22 INFO  TC001_ExplorePage_TabsTest:15 - Starting Explore Page Tabs Testing......
+2025-04-03 01:03:30 INFO  TC001_ExplorePage_TabsTest:27 - Starting Explore Page Individual Tabs Checking
+2025-04-03 01:13:12 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\Selenium\seleniumMobileId\testng.xml
+
+2025-04-03 01:13:35 INFO  TC001_ExplorePage_TabsTest:51 -                                                                   
+2025-04-03 01:13:35 INFO  TC001_ExplorePage_TabsTest:52 -                                                                   
+2025-04-03 01:13:35 INFO  TC001_ExplorePage_TabsTest:15 - Starting Explore Page Tabs Testing......
+2025-04-03 01:13:45 INFO  TC001_ExplorePage_TabsTest:27 - Starting Explore Page Individual Tabs Checking
+2025-04-03 01:23:01 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\Selenium\seleniumMobileId\testng.xml
+
+2025-04-03 01:23:23 INFO  TC001_ExplorePage_TabsTest:51 -                                                                   
+2025-04-03 01:23:23 INFO  TC001_ExplorePage_TabsTest:52 -                                                                   
+2025-04-03 01:23:23 INFO  TC001_ExplorePage_TabsTest:15 - Starting Explore Page Tabs Testing......
+2025-04-03 01:23:31 INFO  TC001_ExplorePage_TabsTest:27 - Starting Explore Page Individual Tabs Checking
+2025-04-03 01:37:45 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\Selenium\seleniumMobileId\testng.xml
+
+2025-04-03 01:38:07 INFO  TC001_ExplorePage_TabsTest:51 -                                                                   
+2025-04-03 01:38:07 INFO  TC001_ExplorePage_TabsTest:52 -                                                                   
+2025-04-03 01:38:07 INFO  TC001_ExplorePage_TabsTest:15 - Starting Explore Page Tabs Testing......
+2025-04-03 01:38:16 INFO  TC001_ExplorePage_TabsTest:27 - Starting Explore Page Individual Tabs Checking
+2025-04-03 01:39:35 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\Selenium\seleniumMobileId\testng.xml
+
+2025-04-03 01:40:00 INFO  TC001_ExplorePage_TabsTest:51 -                                                                   
+2025-04-03 01:40:00 INFO  TC001_ExplorePage_TabsTest:52 -                                                                   
+2025-04-03 01:40:00 INFO  TC001_ExplorePage_TabsTest:15 - Starting Explore Page Tabs Testing......
+2025-04-03 01:40:10 INFO  TC001_ExplorePage_TabsTest:27 - Starting Explore Page Individual Tabs Checking
+2025-04-03 01:41:42 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\Selenium\seleniumMobileId\testng.xml
+
+2025-04-03 01:42:01 INFO  TC001_ExplorePage_TabsTest:51 -                                                                   
+2025-04-03 01:42:01 INFO  TC001_ExplorePage_TabsTest:52 -                                                                   
+2025-04-03 01:42:01 INFO  TC001_ExplorePage_TabsTest:15 - Starting Explore Page Tabs Testing......
+2025-04-03 01:42:10 INFO  TC001_ExplorePage_TabsTest:27 - Starting Explore Page Individual Tabs Checking
+2025-04-03 01:43:23 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\Selenium\seleniumMobileId\testng.xml
+
+2025-04-03 01:44:13 INFO  TC001_ExplorePage_TabsTest:51 -                                                                   
+2025-04-03 01:44:13 INFO  TC001_ExplorePage_TabsTest:52 -                                                                   
+2025-04-03 01:44:13 INFO  TC001_ExplorePage_TabsTest:15 - Starting Explore Page Tabs Testing......
+2025-04-03 01:44:26 INFO  TC001_ExplorePage_TabsTest:27 - Starting Explore Page Individual Tabs Checking
+2025-04-03 01:46:50 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\Selenium\seleniumMobileId\testng.xml
+
+2025-04-03 01:47:13 INFO  TC001_ExplorePage_TabsTest:51 -                                                                   
+2025-04-03 01:47:13 INFO  TC001_ExplorePage_TabsTest:52 -                                                                   
+2025-04-03 01:47:13 INFO  TC001_ExplorePage_TabsTest:15 - Starting Explore Page Tabs Testing......
+2025-04-03 01:47:23 INFO  TC001_ExplorePage_TabsTest:27 - Starting Explore Page Individual Tabs Checking
+2025-04-03 01:49:07 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\Selenium\seleniumMobileId\testng.xml
+
+2025-04-03 01:49:28 INFO  TC001_ExplorePage_TabsTest:51 -                                                                   
+2025-04-03 01:49:28 INFO  TC001_ExplorePage_TabsTest:52 -                                                                   
+2025-04-03 01:49:28 INFO  TC001_ExplorePage_TabsTest:15 - Starting Explore Page Tabs Testing......
+2025-04-03 01:49:36 INFO  TC001_ExplorePage_TabsTest:27 - Starting Explore Page Individual Tabs Checking
+2025-04-03 02:02:22 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\Selenium\seleniumMobileId\testng.xml
+
+2025-04-03 02:02:51 INFO  TC001_ExplorePage_TabsTest:51 -                                                                   
+2025-04-03 02:02:51 INFO  TC001_ExplorePage_TabsTest:52 -                                                                   
+2025-04-03 02:02:51 INFO  TC001_ExplorePage_TabsTest:15 - Starting Explore Page Tabs Testing......
+2025-04-03 02:03:01 INFO  TC001_ExplorePage_TabsTest:28 - Starting Explore Page Individual Tabs Checking
+2025-04-03 02:10:17 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\Selenium\seleniumMobileId\testng.xml
+
+2025-04-03 02:10:47 INFO  TC001_ExplorePage_TabsTest:51 -                                                                   
+2025-04-03 02:10:47 INFO  TC001_ExplorePage_TabsTest:52 -                                                                   
+2025-04-03 02:10:47 INFO  TC001_ExplorePage_TabsTest:15 - Starting Explore Page Tabs Testing......
+2025-04-03 02:11:01 INFO  TC001_ExplorePage_TabsTest:28 - Starting Explore Page Individual Tabs Checking
+2025-04-03 02:16:26 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\Selenium\seleniumMobileId\testng.xml
+
+2025-04-03 02:16:51 INFO  TC001_ExplorePage_TabsTest:51 -                                                                   
+2025-04-03 02:16:51 INFO  TC001_ExplorePage_TabsTest:52 -                                                                   
+2025-04-03 02:16:51 INFO  TC001_ExplorePage_TabsTest:15 - Starting Explore Page Tabs Testing......
+2025-04-03 02:17:00 INFO  TC001_ExplorePage_TabsTest:28 - Starting Explore Page Individual Tabs Checking
+2025-04-03 02:17:46 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\Selenium\seleniumMobileId\testng.xml
+
+2025-04-03 02:18:16 INFO  TC001_ExplorePage_TabsTest:51 -                                                                   
+2025-04-03 02:18:16 INFO  TC001_ExplorePage_TabsTest:52 -                                                                   
+2025-04-03 02:18:16 INFO  TC001_ExplorePage_TabsTest:15 - Starting Explore Page Tabs Testing......
+2025-04-03 02:18:22 INFO  TC001_ExplorePage_TabsTest:28 - Starting Explore Page Individual Tabs Checking
+2025-04-03 02:19:10 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\Selenium\seleniumMobileId\testng.xml
+
+2025-04-03 02:19:32 INFO  TC001_ExplorePage_TabsTest:51 -                                                                   
+2025-04-03 02:19:32 INFO  TC001_ExplorePage_TabsTest:52 -                                                                   
+2025-04-03 02:19:32 INFO  TC001_ExplorePage_TabsTest:15 - Starting Explore Page Tabs Testing......
+2025-04-03 02:19:38 INFO  TC001_ExplorePage_TabsTest:28 - Starting Explore Page Individual Tabs Checking
+2025-04-03 02:20:50 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\Selenium\seleniumMobileId\testng.xml
+
+2025-04-03 02:21:37 INFO  TC001_ExplorePage_TabsTest:51 -                                                                   
+2025-04-03 02:21:37 INFO  TC001_ExplorePage_TabsTest:52 -                                                                   
+2025-04-03 02:21:37 INFO  TC001_ExplorePage_TabsTest:15 - Starting Explore Page Tabs Testing......
+2025-04-03 02:21:46 INFO  TC001_ExplorePage_TabsTest:28 - Starting Explore Page Individual Tabs Checking
+2025-04-03 12:00:57 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\Selenium\seleniumMobileId\testng.xml
+
+2025-04-03 12:01:12 INFO  TC002_SearchPage_ResultsTest:51 -                                                                   
+2025-04-03 12:01:12 INFO  TC002_SearchPage_ResultsTest:52 -                                                                   
+2025-04-03 12:02:34 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\Selenium\seleniumMobileId\testng.xml
+
+2025-04-03 12:02:50 INFO  TC002_SearchPage_ResultsTest:51 -                                                                   
+2025-04-03 12:02:50 INFO  TC002_SearchPage_ResultsTest:52 -                                                                   
+2025-04-03 12:20:11 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\Selenium\seleniumMobileId\testng.xml
+
+2025-04-03 12:20:29 INFO  TC002_SearchPage_ResultsTest:51 -                                                                   
+2025-04-03 12:20:29 INFO  TC002_SearchPage_ResultsTest:52 -                                                                   
+2025-04-03 12:24:59 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\Selenium\seleniumMobileId\testng.xml
+
+2025-04-03 12:25:13 INFO  TC002_SearchPage_ResultsTest:51 -                                                                   
+2025-04-03 12:25:13 INFO  TC002_SearchPage_ResultsTest:52 -                                                                   
+2025-04-03 12:27:29 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\Selenium\seleniumMobileId\testng.xml
+
+2025-04-03 12:27:45 INFO  TC002_SearchPage_ResultsTest:51 -                                                                   
+2025-04-03 12:27:45 INFO  TC002_SearchPage_ResultsTest:52 -                                                                   
+2025-04-03 12:33:06 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\Selenium\seleniumMobileId\testng.xml
+
+2025-04-03 12:33:22 INFO  TC002_SearchPage_ResultsTest:51 -                                                                   
+2025-04-03 12:33:22 INFO  TC002_SearchPage_ResultsTest:52 -                                                                   
